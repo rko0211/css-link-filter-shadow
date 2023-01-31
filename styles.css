@@ -1,0 +1,94 @@
+/* #text { */
+/* border: 2px solid black; */
+/* width: 500px; */
+/* height: 400px; */
+/* color: red; */
+/* text-align: justify; */
+/* text-align: center / left / right /  justify--> remove extra space /  */
+/* direction: rtl; */
+/* text-decoration: dotted underline; */
+/* text-decoration: line-through; overline ; underline */
+/* text-decoration: wavy line-through */
+/* text-decoration: wavy overline; */
+/* underline , line-through */
+/* vertical-align: top ; middle; bottom*/
+/* The element which has to be up or down we should apply vertical allign on this element only   */
+/* text-transform:capitalize; */
+/* text-indent: 40px; */
+/* white-space: nowrap; normal; pre */
+/* word-wrap: break-word;  */
+/* text-shadow: 5px -10px 1px red; */
+/* text-shadow: x-axis y-axis blurness spread-radius color */
+/* writing-mode:vertical-rl; */
+/* direction: rtl; */
+/* text-overflow:ellipsis; */
+
+/* } */
+
+
+/* a{
+    text-decoration: none;
+} */
+
+/* How state of any html element is defined */
+/* a:link
+{
+    color: red;
+}
+
+a:visited
+{
+color: black;
+}
+
+
+a:hover{
+color: yellowgreen;
+}
+
+a:active{
+color: blueviolet;
+} */
+/* html{
+    font-size: 10px;
+} */
+/* body{ */
+    /* border: 1px solid red;
+    width: 500px; */
+    /* font-size: 10vw; */
+/* } */
+/* #unit{ */
+    /* border: 2px solid black; */
+    /* font-size: 2rem; */
+    /* cursor: zoom-in; */
+    /* cursor: all-scroll;crosshair;e-resize;not-allowed;pointer;progress ;zoom-in;*/
+    /* background-color: powderblue; */
+
+/* } */
+
+/* #shadow */
+/* { */
+    /* border: 1px solid green; */
+    /* background-color: yellowgreen; */
+    /* width: 500px; */
+    /* margin: 100px; */
+    /* padding: 20px; */
+    /* box-shadow: 10px 10px 15px 20px gray ,-10px 10px 15px 20px black; */
+/* } */
+/* #opacity:hover */
+/* { */
+    /* opacity: 0.5; */
+/* } */
+
+img{
+    filter: drop-shadow(10px 20px 5px gray);
+     filter: grayscale(80%);
+     filter: hue-rotate(90deg);   
+     filter: invert(40%);
+     filter: opacity(30%);
+     filter: saturate(30%);
+     filter: sepia(30%);
+}
+/* image spite */
+
+/* CSS gradient --> Smooth Mixing of two or more than two colour is called css gradient */
